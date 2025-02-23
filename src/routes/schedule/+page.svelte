@@ -15,6 +15,7 @@
   <h1>Schedule</h1>
   <table>
     <thead>
+      
       <tr>
         <th>Date</th>
         <th>Time</th>
