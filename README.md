@@ -5,7 +5,7 @@ This project is a Svelte-based web application for the Tech Conference 2025. It 
 
 ## Demo
 
-
+[📽️ Watch Demo Video](https://drive.google.com/file/d/1ipd5LRvyi_J4XaDg2qKWLF0tsrx6FEOX/view?usp=sharing)
 
 
 ## Project Setup
