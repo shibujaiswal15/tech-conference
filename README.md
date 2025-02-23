@@ -3,6 +3,8 @@
 This project is a Svelte-based web application for the Tech Conference 2025. It includes various features such as a countdown timer, speaker information, schedule, venue details, and more.
 
 
+## Demo
+
 
 
 
@@ -13,7 +15,7 @@ To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Tech-Conference.git
-   cd tech-conference-main
+   cd tech-conference
    ```
 
 2. Install dependencies:
@@ -26,7 +28,10 @@ To set up the project, follow these steps:
    npm run dev
    ```
 
-  
+   You can also start the server and open the app in a new browser tab:
+   ```bash
+   npm run dev -- --open
+   ```
 
 ## Building for Production
 

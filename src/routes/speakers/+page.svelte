@@ -1,5 +1,7 @@
 <script>
-  import { Card, CardBody, CardTitle, CardText } from 'sveltestrap';
+  // import { Card, CardBody, CardTitle, CardText } from 'sveltestrap';
+  import { Card, CardBody, CardTitle, CardText } from "@sveltestrap/sveltestrap"; 
+
   const speakers = [
     
     { name: 'Jane Smith', title: 'CTO, Innovate Inc.', bio: 'Jane is a leading expert in AI and machine learning...', img: '/jane.jpg' },
