@@ -43,9 +43,14 @@ npm run build
 You can preview the production build with:
 ```bash
 npm run preview
+
+
+🚀 **Live Demo**: Click here to visit the Tech Conference 2025 website]
+(https://tech-conference-project.netlify.app/ )
+
 ```
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
 
 ## Features
 
