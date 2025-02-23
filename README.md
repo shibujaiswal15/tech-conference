@@ -43,10 +43,8 @@ npm run build
 You can preview the production build with:
 ```bash
 npm run preview
+🚀 **Live Demo**: [Click here to visit the Tech Conference 2025 website](https://tech-conference-project.netlify.app/)
 
-
-🚀 **Live Demo**: Click here to visit the Tech Conference 2025 website]
-(https://tech-conference-project.netlify.app/ )
 
 ```
 
